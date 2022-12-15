@@ -15,10 +15,14 @@ I want to learn Front-End Development in RSSchool!
 - C (basics)
 ---
 ## Code Example
----
-## Experience
+```
+function show() {
+    alert('Hello!');
+}
+```
 ---
 ## Education
+*technical*
 ---
 ## English
-A1 (I think so. And I understand that this is not enough)
+__A1__ (I think so. And I understand that this is not enough)
