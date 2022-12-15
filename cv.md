@@ -20,3 +20,9 @@ function show() {
     alert('Hello!');
 }
 ```
+---
+## Education
+*technical*
+---
+## English
+__A1__ (I think so. And I understand that this is not enough)
